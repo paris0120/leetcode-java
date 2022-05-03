@@ -1,5 +1,7 @@
 /**
  * 905. Sort Array By Parity
+ * tc: O(n)
+ * sc: O(1)
  */
 public class Solution905 {
     public int[] sortArrayByParity(int[] nums) {

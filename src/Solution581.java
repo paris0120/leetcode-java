@@ -1,5 +1,7 @@
 /**
  * 581. Shortest Unsorted Continuous Subarray
+ * tc: O(n)
+ * sc: O(1)
  */
 public class Solution581 {
     class Solution {
