@@ -1,5 +1,7 @@
 /**
  * 2. Add Two Numbers
+ * tc: O(n)
+ * sc: O(n)
  */
 
 /**
