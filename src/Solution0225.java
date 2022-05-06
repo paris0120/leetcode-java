@@ -1,11 +1,13 @@
-fdsa/**
+import java.util.LinkedList;
+import java.util.Queue;
+/**
  * 225. Implement Stack using Queues
  */
 public class Solution0225 {
     Queue<Integer> q;
     int top;
 
-    public MyStack() {
+    public Solution0225() {
         q = new LinkedList<>();
     }
 
