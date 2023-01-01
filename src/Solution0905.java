@@ -3,7 +3,7 @@
  * tc: O(n)
  * sc: O(1)
  */
-public class Solution905 {
+public class Solution0905 {
     public int[] sortArrayByParity(int[] nums) {
         int i = 0;
         int j = nums.length-1;
