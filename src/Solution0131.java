@@ -18,7 +18,7 @@ public class Solution0131 {
                 }
                 else {
                     o.addAll(g(s, q, j));
-                }
+                }s
                 q.remove(q.size()-1);
             }
         }
